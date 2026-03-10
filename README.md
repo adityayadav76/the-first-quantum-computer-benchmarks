@@ -40,3 +40,19 @@ possible --N values for shors 18, 42, 58, 74
 ![](https://raw.githubusercontent.com/adityayadav76/the-first-quantum-computer-benchmarks/refs/heads/main/Complete-List-Of-Benchmark-Algorithms.png)
 
 ## Results
+
+### CX Count
+
+![](https://raw.githubusercontent.com/adityayadav76/the-first-quantum-computer-benchmarks/refs/heads/main/benchmark_results/cx_count.png)
+
+### Depth
+
+![](https://raw.githubusercontent.com/adityayadav76/the-first-quantum-computer-benchmarks/refs/heads/main/benchmark_results/depth.png)
+
+### Execution Time
+
+![](https://raw.githubusercontent.com/adityayadav76/the-first-quantum-computer-benchmarks/refs/heads/main/benchmark_results/execution_time.png)
+
+### Memory (MB)
+
+![](https://raw.githubusercontent.com/adityayadav76/the-first-quantum-computer-benchmarks/refs/heads/main/benchmark_results/memory_mb.png)
